@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zackary
-- 👀 I’m interested in web design, music.
+- 👀 I’m interested in web design & music.
 - 📫 How to reach me: modalmarvel@gmail.com
 
 <!---
